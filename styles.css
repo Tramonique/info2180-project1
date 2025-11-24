@@ -213,7 +213,7 @@ header nav a:hover {
 
 .stories img {
     width: 220px;
-    height: 220 px;
+    height: 220px;
     border-radius: 50%;
     object-fit: cover;
     flex-shrink: 0;
